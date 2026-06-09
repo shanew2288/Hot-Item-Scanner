@@ -1,0 +1,24 @@
+{
+  "searches": [
+    {
+      "name": "Pokemon Ascended Heroes ETB",
+      "keywords": [
+        "Ascended Heroes Elite Trainer Box",
+        "Mega Evolution Ascended Heroes ETB",
+        "Mega Dragonite ETB"
+      ],
+      "maxPrice": 65,
+      "stores": ["Target", "Walmart", "GameStop", "Amazon", "TCGPlayer", "PokemonCenter"]
+    },
+    {
+      "name": "Gummy Bear Squishy",
+      "keywords": [
+        "gummy bear squishy",
+        "nee doh gummy bear",
+        "groovy glob gummy"
+      ],
+      "maxPrice": 15,
+      "stores": ["all"]
+    }
+  ]
+}
